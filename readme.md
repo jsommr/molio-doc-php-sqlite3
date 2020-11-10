@@ -1,6 +1,6 @@
 # PHP SQLite3 bindings for Molio Doc
 
-Run `composer install`, then:
+Run `composer install` and enable `extension=sqlite3` in php.ini, then:
 
 **From command line:** `php main.php > molio.db.gz`
 
